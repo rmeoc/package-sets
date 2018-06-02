@@ -973,6 +973,16 @@
     "repo": "https://github.com/rintcius/purescript-mathbox.git",
     "version": "v0.4.0"
   },
+  "matryoshka": {
+    "dependencies": [
+      "fixed-points",
+      "free",
+      "profunctor",
+      "transformers"
+    ],
+    "repo": "git://github.com/slamdata/purescript-matryoshka.git",
+    "version": "v0.3.0"
+  },
   "maybe": {
     "dependencies": [
       "monoid",
